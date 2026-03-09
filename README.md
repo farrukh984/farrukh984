@@ -43,12 +43,20 @@ Custom admin panel with product, user and order management.
 <img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight"/>
+</p> -->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight"/>
+</p> -->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <!-- <p align="center">
@@ -71,8 +79,7 @@ Custom admin panel with product, user and order management.
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/farrukh984/farrukh984/blob/output/github-contribution-grid-snake.svg)
----
+![snake gif](https://raw.githubusercontent.com/farrukh984/farrukh984/output/github-contribution-grid-snake.svg)---
 
 # 📫 Connect With Me
 
