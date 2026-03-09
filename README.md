@@ -44,11 +44,11 @@ Custom admin panel with product, user and order management.
 </p> -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad Farrokh&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad Farrokh&layout=compact&theme=tokyonight"/>
 </p>
 
 <!-- <p align="center">
@@ -64,7 +64,7 @@ Custom admin panel with product, user and order management.
 </p> -->
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=farrukh984&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Muhammad Farrokh&theme=tokyonight"/>
 </p>
 
 ---
