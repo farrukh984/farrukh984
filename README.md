@@ -44,11 +44,11 @@ Custom admin panel with product, user and order management.
 </p> -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farrokh984&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrokh984&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight"/>
 </p>
 
 <!-- <p align="center">
@@ -64,22 +64,23 @@ Custom admin panel with product, user and order management.
 </p> -->
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=farrokh984&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=farrukh984&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/farrokh984/farrokh984/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/farrokh984/farrukh984/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 📫 Connect With Me
 
 📧 Email: farrokh984@gmail.com  
 
-💼 LinkedIn: https://linkedin.com
+## 📫 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-farrukh-b117b937a/)
 ---
 
 ⭐ **Always learning new technologies and improving my development skills.**
