@@ -47,17 +47,27 @@ Custom admin panel with product, user and order management.
 <img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight"/>
 </p> -->
 
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p> -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight"/>
 </p> -->
 
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p> -->
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
+
 
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight"/>
