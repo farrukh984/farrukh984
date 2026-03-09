@@ -39,37 +39,11 @@ Custom admin panel with product, user and order management.
 
 # 📊 GitHub Stats
 
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight"/>
-</p> -->
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight"/>
-</p> -->
-
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p> -->
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats-chi-coral-47.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 </p>
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight"/>
-</p> -->
-
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p> -->
 
 
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight"/>
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -83,7 +57,13 @@ Custom admin panel with product, user and order management.
 <img src="https://streak-stats.demolab.com/?user=farrukh984&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats-chi-coral-47.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
+
+
 
 ## 🐍 Contribution Snake
 
