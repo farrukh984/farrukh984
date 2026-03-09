@@ -79,8 +79,7 @@ Custom admin panel with product, user and order management.
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/farrukh984/farrukh984/output/github-contribution-grid-snake.svg)---
-
+![snake gif](https://raw.githubusercontent.com/farrukh984/farrukh984/output/github-contribution-grid-snake.svg)
 # 📫 Connect With Me
 
 📧 Email: farrokh984@gmail.com  
