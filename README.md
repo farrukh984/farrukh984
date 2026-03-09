@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Farrukh Shabbir Ahmed</h1>
 
-<!--
-**farrukh984/farrukh984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel+Developer;PHP+Backend+Developer;Ecommerce+System+Developer;Always+Learning+New+Technologies&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Laravel Projects**
+- 🌱 Currently learning **Advanced Laravel & RESTful APIs**
+- 💡 Experienced in building **Admin Panels and Ecommerce Systems**
+- 📍 Based in **Karachi, Pakistan**
+- ⚡ Goal: Become a **Professional Full Stack Developer**
+
+---
+
+# 🧰 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Projects
+
+### 🛒 Laravel Ecommerce Store
+Full ecommerce system with product management, cart system and admin dashboard.
+
+### 💇 Salon Appointment Booking System
+Online booking system with employee management and appointment approval.
+
+### 🧑‍💼 Admin Dashboard
+Custom admin panel with product, user and order management.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=farrukh984&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/farrukh984/farrukh984/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: farrokh984@gmail.com  
+
+💼 LinkedIn: https://linkedin.com
+
+---
+
+⭐ **Always learning new technologies and improving my development skills.**
