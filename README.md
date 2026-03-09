@@ -39,28 +39,39 @@ Custom admin panel with product, user and order management.
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight"/>
+</p> -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=farrokh984&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrokh984&layout=compact&theme=tokyonight"/>
 </p>
+
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight"/>
+</p> -->
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com/?user=farrukh984&theme=tokyonight"/>
+</p> -->
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=farrokh984&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/farrukh984/farrukh984/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/farrokh984/farrokh984/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 📫 Connect With Me
