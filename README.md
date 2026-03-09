@@ -1,100 +1,105 @@
 <h1 align="center">Hi 👋, I'm Farrukh Shabbir Ahmed</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel+Developer;PHP+Backend+Developer;Ecommerce+System+Developer;Always+Learning+New+Technologies&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel+Developer;PHP+Backend+Developer;Ecommerce+System+Developer;Full+Stack+Enthusiast&center=true&width=600&height=45" alt="Typing SVG"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Laravel Projects**  
-- 🌱 Currently learning **Advanced Laravel & RESTful APIs**  
-- 💡 Experienced in building **Admin Panels and Ecommerce Systems**  
-- 📍 Based in **Karachi, Pakistan**  
-- ⚡ Goal: Become a **Professional Full Stack Developer**  
-- 💬 Motto: *"Always learning. Always improving."*
+## 👨‍💻 About Me
+<p align="center">
+🔭 Currently working on <b>Laravel Projects</b> | 🌱 Learning <b>Advanced Laravel & RESTful APIs</b><br>
+💡 Experienced in <b>Admin Panels & Ecommerce Systems</b> | 📍 Based in Karachi, Pakistan<br>
+⚡ Goal: Become a <b>Professional Full Stack Developer</b> | 💬 Motto: "Always learning. Always improving."
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
 ### **Frontend**
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ### **Backend**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
 
 ### **Database**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### **Tools & IDE**
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🛒 Laravel Ecommerce Store
-Full ecommerce system with product management, cart system, and admin dashboard.  
-🛠 Tech: Laravel, MySQL, Bootstrap  
+### 🛒 [Laravel Ecommerce Store](https://github.com/farrukh984/ecommerce-store)
+Full ecommerce system with **product management, cart system, and admin dashboard**  
+**Tech:** Laravel, MySQL, Bootstrap  
 🌐 [Live Demo](#) | 💻 [GitHub Repo](https://github.com/farrukh984/ecommerce-store)
 
-### 💇 Salon Appointment Booking System
-Online booking system with employee management and appointment approval.  
-🛠 Tech: Laravel, MySQL, Bootstrap  
+### 💇 [Salon Appointment Booking System](https://github.com/farrukh984/salon-booking)
+Online booking system with **employee management and appointment approval**  
+**Tech:** Laravel, MySQL, Bootstrap  
 🌐 [Live Demo](#) | 💻 [GitHub Repo](https://github.com/farrukh984/salon-booking)
 
-### 🧑‍💼 Admin Dashboard
-Custom admin panel with product, user, and order management.  
-🛠 Tech: Laravel, MySQL, Blade Templates  
+### 🧑‍💼 [Admin Dashboard](https://github.com/farrukh984/admin-dashboard)
+Custom admin panel with **product, user, and order management**  
+**Tech:** Laravel, MySQL, Blade Templates  
 💻 [GitHub Repo](https://github.com/farrukh984/admin-dashboard)
 
 ---
 
 ## 🏆 Achievements & Certifications
-![Laravel Certified](https://img.shields.io/badge/-Laravel%20Certified-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP Certified](https://img.shields.io/badge/-PHP%20Certified-777BB4?style=flat&logo=php&logoColor=white)
-⭐ Built 3+ ecommerce systems & admin panels  
+<p align="center">
+<img src="https://img.shields.io/badge/Laravel%20Certified-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP%20Certified-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+⭐ Built 3+ ecommerce systems & admin panels
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats-chi-coral-47.vercel.app/api?username=farrukh984&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats-chi-coral-47.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=farrukh984&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh984&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=farrukh984&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=farrukh984&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/farrukh984/farrukh984/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/farrukh984/farrukh984/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-farrukh-b117b937a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/farrukh984)  
-📧 Email: farrokh984@gmail.com  
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammad-farrukh-b117b937a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/></a>
+<a href="https://github.com/farrukh984"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"/></a>
+<br>
+📧 Email: <a href="mailto:farrokh984@gmail.com">farrokh984@gmail.com</a>
+</p>
 
 ---
 
