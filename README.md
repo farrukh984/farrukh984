@@ -45,7 +45,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [Laravel Ecommerce Store](https://github.com/farrukh984/ecommerce-store)
+### 🛒 [Laravel Ecommerce Store](https://ecommerce-backened-design.onrender.com)
 Full ecommerce system with **product management, cart system, and admin dashboard**  
 **Tech:** Laravel, MySQL, Bootstrap  
 🌐 [Live Demo](#) | 💻 [GitHub Repo](https://github.com/farrukh984/ecommerce-store)
