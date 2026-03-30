@@ -45,10 +45,10 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [Laravel Ecommerce Store](https://ecommerce-backened-design.onrender.com)
+### 🛒 [Laravel Ecommerce Store](https://github.com/farrukh984/ecommerce-store)
 Full ecommerce system with **product management, cart system, and admin dashboard**  
 **Tech:** Laravel, MySQL, Bootstrap  
-🌐 [Live Demo](#) | 💻 [GitHub Repo](https://github.com/farrukh984/ecommerce-store)
+🌐 [Live Demo](https://ecommerce-backened-design.onrender.com) | 💻 [GitHub Repo](https://github.com/farrukh984/ecommerce-store)
 
 ### 💇 [Salon Appointment Booking System](https://github.com/farrukh984/salon-booking)
 Online booking system with **employee management and appointment approval**  
