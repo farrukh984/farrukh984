@@ -5,19 +5,19 @@
 </p>
 
 <p align="center">
-  Building scalable web applications with clean architecture & modern design
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Web+Applications;Laravel+%7C+PHP+%7C+MySQL;Clean+Code+%7C+Modern+UI;Always+Learning+New+Technologies&center=true&width=600&height=40"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Laravel developer based in Karachi, Pakistan, focused on building real-world web applications with strong backend logic and clean user experiences.
+I am a Laravel developer based in Karachi, Pakistan, passionate about building real-world applications with clean architecture and efficient backend systems.
 
-* 🔭 Currently developing Laravel-based applications
-* 🌱 Learning advanced backend concepts & RESTful APIs
-* 💡 Experienced in ecommerce systems and admin dashboards
-* ⚡ Focused on writing clean, scalable, and maintainable code
+* 🔭 Currently working on Laravel applications
+* 🌱 Learning advanced backend development & REST APIs
+* 💡 Built multiple ecommerce systems and admin dashboards
+* ⚡ Focused on scalability, performance, and clean code
 
 ---
 
@@ -47,68 +47,68 @@ Git • GitHub • VS Code
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### Laravel Ecommerce Store
+### 🛒 Laravel Ecommerce Store
 
-A complete ecommerce platform with product management, cart system, and admin dashboard.
+A complete ecommerce platform with admin dashboard, product management, and cart system.
 
-* Developed full backend logic with Laravel
-* Implemented product & order management system
-* Integrated responsive UI for better user experience
+* Developed scalable backend using Laravel
+* Implemented product, cart, and order workflows
+* Designed responsive UI for better usability
 
 **Tech Stack:** Laravel, MySQL, Bootstrap
-🔗 Live: https://ecommerce-backened-design.onrender.com
-💻 Code: https://github.com/farrukh984/ecommerce-store
+🔗 Live Demo: https://ecommerce-backened-design.onrender.com
+💻 GitHub: https://github.com/farrukh984/ecommerce-store
 
 ---
 
-### Salon Appointment Booking System
+### 💇 Salon Appointment Booking System
 
-A booking system with employee scheduling and appointment approval workflow.
+A smart booking system with employee scheduling and admin approval workflow.
 
-* Built appointment management system
-* Added employee availability and booking logic
+* Built appointment system with conflict handling
+* Managed employee availability and scheduling
 * Created admin panel for approvals and tracking
 
 **Tech Stack:** Laravel, MySQL, Bootstrap
-💻 Code: https://github.com/farrukh984/salon-booking
+💻 GitHub: https://github.com/farrukh984/salon-booking
 
 ---
 
-### Admin Dashboard
+### 🧑‍💼 Admin Dashboard
 
-Custom dashboard for managing users, products, and orders.
+A structured admin panel for managing users, products, and orders.
 
-* Developed CRUD operations with Laravel
-* Designed structured admin panel
-* Focused on usability and clean layout
+* Implemented full CRUD functionality
+* Designed clean and user-friendly dashboard
+* Focused on maintainable backend structure
 
 **Tech Stack:** Laravel, MySQL, Blade
-💻 Code: https://github.com/farrukh984/admin-dashboard
+💻 GitHub: https://github.com/farrukh984/admin-dashboard
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
 <img src="https://github-readme-stats-chi-coral-47.vercel.app/api?username=farrukh984&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+<br/>
+<img src="https://github-readme-stats-chi-coral-47.vercel.app/api/top-langs/?username=farrukh984&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
 <p align="center">
 
-LinkedIn: https://www.linkedin.com/in/muhammad-farrukh-b117b937a/
-GitHub: https://github.com/farrukh984
-Email: [farrokh984@gmail.com](mailto:farrokh984@gmail.com)
+<a href="https://www.linkedin.com/in/muhammad-farrukh-b117b937a/">LinkedIn</a> • <a href="https://github.com/farrukh984">GitHub</a> • <a href="mailto:farrokh984@gmail.com">Email</a>
 
 </p>
 
 ---
 
 <p align="center">
-  <i>Consistently learning, building, and improving as a developer.</i>
+  <i>Focused on continuous growth, real-world problem solving, and building impactful applications.</i>
 </p>
