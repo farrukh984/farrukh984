@@ -1,66 +1,91 @@
-<h1 align="center">Hi, I'm Farrukh Shabbir Ahmed</h1>
+<h1 align="center">Farrukh Shabbir Ahmed</h1>
 
 <p align="center">
-Laravel Developer | PHP Backend Developer | Full Stack Enthusiast
+  <b>Laravel Developer • PHP Backend Developer • Full Stack Enthusiast</b>
+</p>
+
+<p align="center">
+  Building scalable web applications with clean architecture & modern design
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate Laravel and PHP developer based in Karachi, Pakistan.
-Currently focused on building scalable web applications and improving my backend development skills.
+I am a Laravel developer based in Karachi, Pakistan, focused on building real-world web applications with strong backend logic and clean user experiences.
 
-* 🔭 Working on Laravel-based projects
-* 🌱 Learning Advanced Laravel & RESTful APIs
-* 💡 Experienced in Admin Panels & Ecommerce Systems
-* ⚡ Goal: Building scalable full stack applications using modern technologies
+* 🔭 Currently developing Laravel-based applications
+* 🌱 Learning advanced backend concepts & RESTful APIs
+* 💡 Experienced in ecommerce systems and admin dashboards
+* ⚡ Focused on writing clean, scalable, and maintainable code
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:**
-HTML, CSS, JavaScript
+<p align="center">
 
-**Backend:**
-PHP, Laravel
+<strong>Frontend</strong><br/>
+HTML • CSS • JavaScript
 
-**Database:**
+<br/>
+
+<strong>Backend</strong><br/>
+PHP • Laravel
+
+<br/>
+
+<strong>Database</strong><br/>
 MySQL
 
-**Tools:**
-Git, GitHub, VS Code
+<br/>
+
+<strong>Tools</strong><br/>
+Git • GitHub • VS Code
+
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🛒 Laravel Ecommerce Store
+### Laravel Ecommerce Store
 
-A complete ecommerce system with product management, cart functionality, and admin dashboard.
+A complete ecommerce platform with product management, cart system, and admin dashboard.
 
-* Tech: Laravel, MySQL, Bootstrap
-* Live Demo: https://ecommerce-backened-design.onrender.com
-* GitHub: https://github.com/farrukh984/ecommerce-store
+* Developed full backend logic with Laravel
+* Implemented product & order management system
+* Integrated responsive UI for better user experience
 
----
-
-### 💇 Salon Appointment Booking System
-
-Online booking system with employee management and appointment approval system.
-
-* Tech: Laravel, MySQL, Bootstrap
-* GitHub: https://github.com/farrukh984/salon-booking
+**Tech Stack:** Laravel, MySQL, Bootstrap
+🔗 Live: https://ecommerce-backened-design.onrender.com
+💻 Code: https://github.com/farrukh984/ecommerce-store
 
 ---
 
-### 🧑‍💼 Admin Dashboard
+### Salon Appointment Booking System
 
-Custom admin panel for managing products, users, and orders.
+A booking system with employee scheduling and appointment approval workflow.
 
-* Tech: Laravel, MySQL, Blade Templates
-* GitHub: https://github.com/farrukh984/admin-dashboard
+* Built appointment management system
+* Added employee availability and booking logic
+* Created admin panel for approvals and tracking
+
+**Tech Stack:** Laravel, MySQL, Bootstrap
+💻 Code: https://github.com/farrukh984/salon-booking
+
+---
+
+### Admin Dashboard
+
+Custom dashboard for managing users, products, and orders.
+
+* Developed CRUD operations with Laravel
+* Designed structured admin panel
+* Focused on usability and clean layout
+
+**Tech Stack:** Laravel, MySQL, Blade
+💻 Code: https://github.com/farrukh984/admin-dashboard
 
 ---
 
@@ -74,10 +99,16 @@ Custom admin panel for managing products, users, and orders.
 
 ## 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/muhammad-farrukh-b117b937a/
-* GitHub: https://github.com/farrukh984
-* Email: [farrokh984@gmail.com](mailto:farrokh984@gmail.com)
+<p align="center">
+
+LinkedIn: https://www.linkedin.com/in/muhammad-farrukh-b117b937a/
+GitHub: https://github.com/farrukh984
+Email: [farrokh984@gmail.com](mailto:farrokh984@gmail.com)
+
+</p>
 
 ---
 
-**Focused on continuous learning and building real-world projects.**
+<p align="center">
+  <i>Consistently learning, building, and improving as a developer.</i>
+</p>
